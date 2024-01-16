@@ -1,0 +1,19 @@
+{
+  "name": "native-http-plugin",
+  "version": "1.0.0",
+  "description": "Native http plugin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhandaribhumin/native-http-plugin.git"
+  },
+  "author": "Bhumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhandaribhumin/native-http-plugin/issues"
+  },
+  "homepage": "https://github.com/bhandaribhumin/native-http-plugin#readme"
+}
